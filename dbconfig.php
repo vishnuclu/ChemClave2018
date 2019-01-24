@@ -1,8 +1,8 @@
 <?php
 // Database configuration
 $dbHost     = "localhost";
-$dbUsername = "root";
-$dbPassword = "123";
+$dbUsername = "";
+$dbPassword = "";
 $dbName     = "chemclave_user";
 
 //Create connection and select DB
