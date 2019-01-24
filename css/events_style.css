@@ -1,0 +1,48 @@
+
+.bmenu{
+
+	list-style: none;
+	font-size: 20px;
+	cursor: pointer;
+	height: auto;
+	width: auto;
+	padding: 0 0; 
+}
+.heading{
+	text-align: center;
+	color: white;
+}
+.tabs {
+   width: auto;
+  transition: 0.4s;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 0;
+  margin: 10px 10px;
+}
+.bmenu li:hover {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px 24px;
+  margin: 10px 0;  
+}
+.active_nav{
+	background-color: #ffffff !important;
+	color: #000000 !important;
+	padding: 10px 24px !important;
+	margin: 10px 0!important;
+}
+.active{
+
+	color:#fff !important;
+	z-index: 0 !important;
+}
+.content{
+	background: rgba(0,0,0,0.5);
+	width: 80%;
+	height: 75vh;
+	color:white;
+}
+table{
+	color: #000 !important;
+}
